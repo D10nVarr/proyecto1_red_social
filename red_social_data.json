@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "contenido": "alex: HOLAA",
+        "likes": 4,
+        "comentarios": [
+            "alex: ketal"
+        ],
+        "favorito": false,
+        "fecha": "25/03/2026 21:07",
+        "imagen": "C:/Users/legra/OneDrive/Imágenes/3-02-2011/DSC00643.JPG"
+    },
+    {
+        "id": 2,
+        "contenido": "skiiimask: Buenas noches a todos primer post",
+        "likes": 0,
+        "comentarios": [],
+        "favorito": false,
+        "fecha": "25/03/2026 21:28",
+        "imagen": "C:/Users/legra/OneDrive/Imágenes/FvopS9iWIAAuvnA.jpg"
+    },
+    {
+        "id": 3,
+        "contenido": "usuario: ketal",
+        "likes": 0,
+        "comentarios": [],
+        "favorito": false,
+        "fecha": "25/03/2026 21:40",
+        "imagen": "C:/Users/legra/OneDrive/Imágenes/porcion-selva-negra_a73d2e71_600x600.jpg"
+    },
+    {
+        "id": 4,
+        "contenido": "usuario: olis",
+        "likes": 2,
+        "comentarios": [],
+        "favorito": false,
+        "fecha": "25/03/2026 21:40",
+        "imagen": null
+    },
+    {
+        "id": 5,
+        "contenido": "skiiimask: >____<",
+        "likes": 1,
+        "comentarios": [],
+        "favorito": false,
+        "fecha": "25/03/2026 21:55",
+        "imagen": "C:/Users/legra/OneDrive/Imágenes/19-12-2024/DSC00231.JPG"
+    }
+]
